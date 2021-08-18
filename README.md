@@ -1,2 +1,0 @@
-# idacteve.txt
-id actevakan
